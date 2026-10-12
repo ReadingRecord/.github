@@ -17,4 +17,4 @@ Closes #
 
 ## 체크리스트
 - [ ] PR 제목 컨벤션 확인 (`[Feat]`, `[Fix]`, `[Refactor]`, `[Chore]`)
-- [ ] 머지 대상 브랜치 확인 (backend는 `develop`)
+- [ ] 머지 대상 브랜치 확인 (`develop`)
